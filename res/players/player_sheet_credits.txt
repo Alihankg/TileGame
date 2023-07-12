@@ -1,0 +1,36 @@
+Authors: drjamgo@hotmail.com, bluecarrot16, Evert, TheraHedwig, Benjamin K. Smith (BenCreating), MuffinElZangano, Durrani, Pierre Vigier (pvigier), Eliza Wyatt (ElizaWy), Matthew Krohn (makrohn), Johannes Sj?lund (wulax), Stephen Challener (Redshrike), Thane Brimhall (pennomi), William.Thompsonj, Mandi Paugh, ElizaWy, Nila122
+
+- shadow/adult/shadow.png: by drjamgo@hotmail.com. License(s): CC0. 
+    - https://opengameart.org/content/shadow-for-lpc-sprite
+
+- body/bodies/teen/universal/light.png: by bluecarrot16, Evert, TheraHedwig, Benjamin K. Smith (BenCreating), MuffinElZangano, Durrani, Pierre Vigier (pvigier), Eliza Wyatt (ElizaWy), Matthew Krohn (makrohn), Johannes Sj?lund (wulax), Stephen Challener (Redshrike). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+    - https://opengameart.org/content/lpc-ladies
+    - https://opengameart.org/content/lpc-teen-unisex-base-clothes
+    - https://opengameart.org/content/lpc-jump-expanded
+
+- head/heads/human_female/universal/light.png: by bluecarrot16, Benjamin K. Smith (BenCreating), Stephen Challener (Redshrike). License(s): OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/
+    - https://opengameart.org/content/lpc-character-bases
+
+- head/nose/straight/light.png: by Thane Brimhall (pennomi), Matthew Krohn (makrohn). License(s): GPL 3.0, CC-BY-SA 3.0. 
+    - https://opengameart.org/content/lpc-base-character-expressions
+
+- eyes/male/blue.png: by Matthew Krohn (makrohn), Stephen Challener (Redshrike). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+
+- head/wrinkles/light.png: by bluecarrot16. License(s): CC0. 
+
+- hair/sara/male/sandy.png: by Stephen Challener (Redshrike), William.Thompsonj, Mandi Paugh, bluecarrot16. License(s): OGA-BY 3.0, CC-BY 3.0. 
+    - https://opengameart.org/content/lpc-sara
+    - https://opengameart.org/content/lpc-hair
+
+- torso/clothes/longsleeve/teen/black.png: by bluecarrot16, ElizaWy, Stephen Challener (Redshrike). License(s): OGA-BY 3.0, GPL 3.0. 
+    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+    - https://opengameart.org/content/lpc-teen-unisex-base-clothes
+    - http://opengameart.org/content/lpc-clothing-updates
+
+- legs/skirts/legion/female/blue.png: by bluecarrot16, Nila122. License(s): CC-BY-SA 3.0, GPL 2.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-roman-armor
+    - http://opengameart.org/content/lpc-clothing-updates
